@@ -1,4 +1,4 @@
-''' This is instabot can do various things such as :
+''' This instabot can do various things such as :
     1 --> Check your Profile
     2 --> like a post 
     3 --> comment on a post

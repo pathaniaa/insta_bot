@@ -2,7 +2,7 @@
     1 --> Check your Profile
     2 --> like a post
     3 --> comment on a post
-    4 --> delete a comment as well as , multiple comments by searching comments by words
+    4 --> delete a comment as well as  multiple comments by searching comments by words
     5 --> Find Average number of words per comment on a post
 '''
 import requests # Requests library imported to perform different queries such as get , post , delete ,put
